@@ -1,0 +1,41 @@
+header{
+    border: 2px solid grey;
+    background-color: aquamarine;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+
+}
+nav ul li{
+
+    display: inline;
+    margin-right: 5px;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav a {
+    color: blue;
+    text-decoration: none;
+}
+
+
+.Hero1,.Hero2, .Hero3, .Hero4
+{
+    
+    padding-top: 100px;
+    margin-top: 0px;
+}
+.Hero1{
+    background-image:url(https://www.stgusa.com/wp-content/uploads/2023/02/STG-Trucks-2-scaled-1.jpg) ;
+    background-size: cover;
+    background-position: auto ;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 25%;
+
+}
+
